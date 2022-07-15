@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RobinsonCartez
-- 👀 I’m interested in mathematics, programming, drawing and philosophe
+- 👀 I’m interested in mathematics, programming,
+ drawing and philosophy.
 
 - 🌱 I’m currently mathematic's teacher.
 
